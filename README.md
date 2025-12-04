@@ -27,3 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedakv2&" alt="Ahmedakv2" /></p>
 
+
+
+
+![snake gif](https://github.com/AhmedakV2/AhmedakV2/blob/output/github-contribution-grid-snake.gif)
+
