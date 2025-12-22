@@ -1,4 +1,4 @@
-[![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
+![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
 
 <h1 align="center">Hi 👋, I'm AhmedV2</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
