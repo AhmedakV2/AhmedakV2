@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 💼 I’m currently working as a **Software Developer Intern at AKGÜN**.
-- 🔭 I’m currently developing **Ederi Ne?** and building cross-platform applications.
+- 🔭 I’m currently developing **AFT**, a no-code web test automation platform utilizing record & playback logic.
 - 🌱 I’m expanding my expertise in **Flutter, Dart, Firebase, and AI integration**.
 - 🎓 Studying Computer Programming at **Gazi University (TUSAŞ-Kazan MYO)**.
 - 💻 I specialize in building end-to-end solutions without leaving core mobile and desktop disciplines behind.
