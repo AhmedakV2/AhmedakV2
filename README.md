@@ -19,9 +19,7 @@
 - 📫 How to reach me: **[ahmedaknkoc@gmail.com](mailto:ahmedaknkoc@gmail.com)**
 - ⚡ Fun fact: **I run on coffee and a passion for solving complex, platform-independent problems.**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Future_Focus-Artificial_Intelligence-0e75b6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Focus" />
-</p>
+
 
 ---
 
@@ -67,7 +65,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project Name | Description | Built With |
 | :--- | :--- | :--- |
